@@ -22,18 +22,11 @@
 ---
 
 
-### :sparkles: 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 <img src="assets/stubparrot.gif" height="30">
-25
+### :sparkles: 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
 `The project that I'm currently most working on`
-26
-​
-27
-<a href="https://github.com/shiryel/ryush-bot" float="left">
-28
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=ryush-bot&theme=tokyonight" height="150" />
-29
+<a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="150" />
   <img src="assets/ryush.png" height="149" /> 
-30
 </a>
 
 <!---
