@@ -23,10 +23,10 @@
 
 
 ### :sparkles: 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
-`The project that I'm currently most working on`
+`The game project that I'm currently most working on`
 <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="150" />
-  <img src="assets/mwb.webp" height="149" /> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="110" />
+  <img src="assets/mwb.webp" height="109" /> 
 </a>
 
 <!---
