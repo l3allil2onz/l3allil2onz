@@ -26,12 +26,12 @@
 `The project that I'm currently most working on`
 <p></p>
 <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="170" width="300"/>
   <img src="assets/mwb.webp" height="169" /> 
 </a>
 
 <a href="https://github.com/l3allil2onz/StunFish-Card-Translate" float="left">
-  <img src="assets/StunFish_Card_TranslatePic.png" height="169" /> 
+  <img src="assets/StunFish_Card_TranslatePic.png" height="169" width="300"/> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=StunFish-Card-Translate&theme=tokyonight" height="170" />
 </a>
 
