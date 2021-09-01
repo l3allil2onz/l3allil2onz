@@ -31,7 +31,7 @@
 </a>
 <a href="https://github.com/l3allil2onz/StunFish-Card-Translate" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=StunFish-Card-Translate&theme=tokyonight" height="110" />
-  <img src="assets/StunFish-Card-Translate.png" height="109" /> 
+  <img src="assets/StunFish_Card_TranslatePic.png" height="109" /> 
 </a>
 
 <!---
