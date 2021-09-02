@@ -30,6 +30,11 @@
   <img src="assets/mwb.webp" height="149" width="300"/> 
 </a>
 
+<a href="https://github.com/l3allil2onz/Ghost-Hunter" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Ghost-Hunter&theme=tokyonight" height="150" />
+  <img src="assets/gh.webp" height="149" width="300"/> 
+</a>
+
 <a href="https://github.com/l3allil2onz/StunFish-Card-Translate" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=StunFish-Card-Translate&theme=tokyonight" height="150" />
   <img src="assets/StunFish_Card_TranslatePic.png" height="149" width="300"/> 
@@ -39,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Master-Mind&theme=tokyonight" height="150" />
   <img src="assets/MasterMindCover2.png" height="149" width="300"/> 
 </a>
+
 <!---
 l3allil2onz/l3allil2onz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
