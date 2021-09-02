@@ -52,7 +52,7 @@
 
 <a href="https://github.com/l3allil2onz/Tic-Tac-Toe" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="150" width="400"/>
-  <img src="assets/TicTacToe.png" height="129" width="300"/> 
+  <img src="assets/TicTacToe.png" height="109" width="300"/> 
 </a>
 
 <!---
