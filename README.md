@@ -57,9 +57,11 @@
 
 ---
 ### :books: 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆𝒔
-<p align=center>
-  <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="350" width="450"/> <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="350" width="450"/> 
-  <img src="Certificates/MoreCSharpProgrammingAndUnity.png" height="350" width="450"/> <img src="Certificates/IntermediateCSharpProgrammingAndUnity.png" height="350" width="450"/> 
+<p align=left>
+  <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="350" width="450"/> 
+  <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="350" width="450"/> 
+  <img src="Certificates/MoreCSharpProgrammingAndUnity.png" height="350" width="450"/> 
+  <img src="Certificates/IntermediateCSharpProgrammingAndUnity.png" height="350" width="450"/> 
 </p>
 
 <!---
