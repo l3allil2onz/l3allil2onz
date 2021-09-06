@@ -57,7 +57,12 @@
 
 ---
 ### :books: 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆𝒔
-`My certificate`
+<p align=center>
+  <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" /> 
+  <img src="Certificates/IntroductionToC#ProgrammingAndUnity.png" /> 
+  <img src="Certificates/MoreC#ProgrammingAndUnity.png" /> 
+  <img src="Certificates/IntermediateC#ProgrammingAndUnity.png" /> 
+</p>
 
 <!---
 l3allil2onz/l3allil2onz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
