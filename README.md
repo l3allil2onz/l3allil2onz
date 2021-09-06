@@ -56,7 +56,7 @@
 </a>
 
 ---
-### :books: 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
+### :books: 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓽𝓮
 `The project that I'm currently most working on`
 
 <!---
