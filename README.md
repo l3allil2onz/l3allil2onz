@@ -41,17 +41,17 @@
 </a>
 
 <a href="https://github.com/l3allil2onz/Master-Mind" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Master-Mind&theme=tokyonight" height="100" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Master-Mind&theme=tokyonight" height="200" width="200"/>
   <img src="assets/MasterMindCover2.png" height="100" width="200"/> 
 </a>
 
 <a href="https://github.com/l3allil2onz/SpaceWar" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=SpaceWar&theme=tokyonight" height="100" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=SpaceWar&theme=tokyonight" height="200" width="200"/>
   <img src="assets/SpaceWarCover.png" height="100" width="200"/> 
 </a>
 
 <a href="https://github.com/l3allil2onz/Tic-Tac-Toe" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="100" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="200" width="200"/>
   <img src="assets/TicTacToe.png" height="100" width="200"/> 
 </a>
 
