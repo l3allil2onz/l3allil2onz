@@ -50,11 +50,6 @@
   <img src="assets/SpaceWarCover.png" height="149" width="300"/> 
 </a>
 
-<a href="https://github.com/l3allil2onz/Tic-Tac-Toe" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="150" width="500"/>
-  <img src="assets/TicTacToe.png" height="149" width="300"/> 
-</a>
-
 ---
 ### :books: 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆𝒔
 <p align=center>
