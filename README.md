@@ -1,6 +1,6 @@
 ## 👋🏼 [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆](https://chayanandnantagitt.wixsite.com/l3allil2on?fbclid=IwAR152EpgQbEdhkKdLVKxMXuP0o4zFXCqhIKrRUXF1Vj7EbsZXRIsMxquhOc)
 <p align=center>
-🧑🏻💬 𝘏𝘪, 𝘔𝘺 𝘯𝘢𝘮𝘦'𝘴 𝐵𝘢𝘭𝘭, 𝐼'𝓂 𝘧𝘳𝘰𝘮 𝒯𝘩𝘢𝘪𝘭𝘢𝘯𝘥, 👁‍🗨 𝐼'𝓂 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝑒𝒹 𝒾𝓃 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮m𝘪𝘯𝘨
+🧑🏻💬 𝘏𝘪, 𝘔𝘺 𝘯𝘢𝘮𝘦'𝘴 𝐵𝘢𝘭𝘭, 𝐼'𝓂 𝘧𝘳𝘰𝘮 𝒯𝘩𝘢𝘪𝘭𝘢𝘯𝘥, 👁‍🗨 𝐼'𝓂 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝑒𝒹 𝒾𝓃 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨
 </p>
 
 
