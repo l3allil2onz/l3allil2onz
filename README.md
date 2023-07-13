@@ -26,7 +26,7 @@
 `The project that I'm currently most working on`
 <p></p>
 <a href="https://github.com/l3allil2onz/Tippawan" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="150" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="150" width="400"/>
   <img src="assets/discord-bots.webp" height="149" width="300"/> 
 </a>
 
