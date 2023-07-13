@@ -25,6 +25,11 @@
 ### :sparkles: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 `The project that I'm currently most working on`
 <p></p>
+<a href="https://github.com/l3allil2onz/Tippawan" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="150" width="400"/>
+  <img src="assets/tippawan.webp" height="149" width="300"/> 
+</a>
+
 <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="150" width="400"/>
   <img src="assets/mwb.webp" height="149" width="300"/> 
