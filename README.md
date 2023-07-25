@@ -1,16 +1,10 @@
 ## 👋🏼 [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆](https://chayanandnantagitt.wixsite.com/l3allil2on?fbclid=IwAR152EpgQbEdhkKdLVKxMXuP0o4zFXCqhIKrRUXF1Vj7EbsZXRIsMxquhOc)
 <p align=center>
-🧑🏻💬 Hi, My name's Chayanan, I'm from Thailand, 👁‍🗨 I'm interested in game development and programming.
+🧑🏻💬 Hi, My name's Chayanan, I'm from Thailand, 👁‍🗨 I'm interested in programming and cybersecurity.
 </p>
 
-
 <p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=l3allil2onz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allil2onz&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
-</p>
-
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=l3allil2onz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D,F" />
 </p>
 
 <p align=center>
@@ -25,7 +19,7 @@
 ### :sparkles: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 `The project that I'm currently most working on`
 <p></p>
-<a href="https://github.com/l3allil2onz/Tippawan" float="left">
+<a href="https://github.com/l3allil2onz/Discord-bot" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="150" width="400"/>
   <img src="assets/discord-bots.webp" height="149" width="300"/> 
 </a>
@@ -65,12 +59,12 @@
 
 ### :books: 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆𝒔
 <p align=center>
-  <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="300" width="400"/> 
-  <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="300" width="400"/> 
-  <img src="Certificates/MoreCSharpProgrammingAndUnity.png" height="300" width="400"/> 
-  <img src="Certificates/IntermediateCSharpProgrammingAndUnity.png" height="300" width="400"/> 
-  <img src="Certificates/PythonBasics.png" height="300" width="400"/> 
-  <img src="Certificates/IntroductionToWebDev.png" height="300" width="400"/> 
+  <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="150" width="200"/> 
+  <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="150" width="200"/> 
+  <img src="Certificates/MoreCSharpProgrammingAndUnity.png" height="150" width="200"/> 
+  <img src="Certificates/IntermediateCSharpProgrammingAndUnity.png" height="150" width="200"/> 
+  <img src="Certificates/PythonBasics.png" height="150" width="200"/> 
+  <img src="Certificates/IntroductionToWebDev.png" height="150" width="200"/> 
 </p>
 
 <!---
