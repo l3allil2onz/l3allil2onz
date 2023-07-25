@@ -21,6 +21,7 @@
 
 
 ### :sparkles: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+
 <p align=center>
   <a href="https://github.com/l3allil2onz/Discord-bot" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="150" width="400"/>
@@ -57,10 +58,12 @@
     <img src="assets/TicTacToe.png" height="149" width="300"/> 
   </a>
 </p>
+
 ---
 
 
 ### :books: 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆𝒔
+
 <p align=center>
   <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="300" width="400"/> 
   <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="300" width="400"/> 
