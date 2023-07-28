@@ -3,7 +3,7 @@
 🧑🏻💬 Hi, My name's Chayanan, I'm from Thailand, 👁‍🗨 I'm interested in programming and cybersecurity. <br>
   This is my 
   <a href="https://github.com/l3allil2onz/chayanan-portfolio"> 
-    Portfolio 
+    Cybersecurity Portfolio 
   </a>
 </p>
 
