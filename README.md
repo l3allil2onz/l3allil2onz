@@ -66,12 +66,12 @@
 
 <p align=center>
   <img src="Certificates/GoogleCybersecurity.png" height="300" width="400"/> 
+  <img src="Certificates/IntroductionToWebDev.png" height="300" width="400"/> 
   <img src="Certificates/GameDesign&Dev_2DShooter_MichiganState.png" height="300" width="400"/> 
   <img src="Certificates/IntroductionToCSharpProgrammingAndUnity.png" height="300" width="400"/> 
   <img src="Certificates/MoreCSharpProgrammingAndUnity.png" height="300" width="400"/> 
   <img src="Certificates/IntermediateCSharpProgrammingAndUnity.png" height="300" width="400"/> 
   <img src="Certificates/PythonBasics.png" height="300" width="400"/> 
-  <img src="Certificates/IntroductionToWebDev.png" height="300" width="400"/> 
 </p>
 
 <!---
