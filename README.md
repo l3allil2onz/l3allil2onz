@@ -25,12 +25,12 @@
 <p align=left>
   <a href="https://github.com/l3allil2onz/Discord-bot" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="200" width="150"/>
-    <img src="assets/discord-bots.webp" height="199" width="300"/> 
+    <img src="assets/discord-bots.webp" height="74" width="150"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="200" width="150"/>
-    <img src="assets/mwb.webp" height="199" width="300"/> 
+    <img src="assets/mwb.webp" height="74" width="150"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/Ghost-Hunter" float="left">
