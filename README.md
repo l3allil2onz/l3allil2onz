@@ -24,8 +24,8 @@
 
 <p align=left>
   <a href="https://github.com/l3allil2onz/Discord-bot" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/discord-bots.webp" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="200" width="299"/>
+    <img src="assets/discord-bots.webp" height="199" width="200"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
