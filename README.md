@@ -22,7 +22,7 @@
 
 ### :sparkles: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
-<p align=left>
+<p align=center>
   <a href="https://github.com/l3allil2onz/Discord-bot" float="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="200" width="400"/>
     <img src="assets/discord-bots.webp" height="149" width="300"/> 
