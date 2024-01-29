@@ -24,38 +24,38 @@
 
 <p align=left>
   <a href="https://github.com/l3allil2onz/Discord-bot" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="100" width="200"/>
-    <img src="assets/discord-bots.webp" height="74" width="150"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Discord-bot&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/discord-bots.webp" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="100" width="200"/>
-    <img src="assets/mwb.webp" height="74" width="150"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/mwb.webp" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/Ghost-Hunter" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Ghost-Hunter&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/gh.webp" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Ghost-Hunter&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/gh.webp" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/StunFish-Card-Translate" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=StunFish-Card-Translate&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/StunFish_Card_TranslatePic.png" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=StunFish-Card-Translate&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/StunFish_Card_TranslatePic.png" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/Master-Mind" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Master-Mind&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/MasterMindCover2.png" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Master-Mind&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/MasterMindCover2.png" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/SpaceWar" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=SpaceWar&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/SpaceWarCover.png" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=SpaceWar&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/SpaceWarCover.png" height="149" width="300"/> 
   </a>
   
   <a href="https://github.com/l3allil2onz/Tic-Tac-Toe" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="100" width="299"/>
-    <img src="assets/TicTacToe.png" height="99" width="200"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=Tic-Tac-Toe&theme=tokyonight" height="200" width="400"/>
+    <img src="assets/TicTacToe.png" height="149" width="300"/> 
   </a>
 </p>
 
