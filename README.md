@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://github.com/l3allil2onz/MadWasteBin" float="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="100" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l3allil2onz&repo=MadWasteBin&theme=tokyonight" height="100" width="299"/>
     <img src="assets/mwb.webp" height="99" width="200"/> 
   </a>
   
